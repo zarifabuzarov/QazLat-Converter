@@ -37,4 +37,4 @@ cyrillic_text = "Ассалаумағалейкум, достар!"
 latin_text = convert_text(cyrillic_text)
 
 print(latin_text)
-# Output: Assalaumağaleykum, dostar!
+# Output: Assalavumağaleykuvm, dostar!
