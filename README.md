@@ -28,7 +28,7 @@ The algorithm follows a multi-step pipeline:
 Simply import the `convert_text` function into your project:
 
 ```python
-from qaz_latiner import convert_text
+from qazlat import convert_text
 
 # Example input
 cyrillic_text = "Ассалаумағалейкум, достар!"
